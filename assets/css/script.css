@@ -1,0 +1,171 @@
+  body {
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .navbar-brand {
+    font-size: 100%;
+  }
+
+  .purple {
+    background-color: #8e24aa !important;
+  }
+   
+  header {
+    background-image: url('../img/image0.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: auto;
+    height: max-content;
+    padding: 30%;
+  }
+
+  hr.white {
+    border-top: 2px solid white;
+    width: 60%;
+  }
+
+  .lib-header-seperator {
+    height: 2px;
+    width: 100%;
+    background-color: white;
+  }
+  
+  .conta {
+    top: 881px;
+    left: 156px;
+    width: 1150px;
+    height: 153px;
+  }
+
+  .lib-panel {
+    margin-bottom: 20Px;
+  }
+
+  .lib-panel img {
+    background-color: transparent;
+    width: 100%;
+  }
+
+  .lib-panel .row,
+  .lib-panel .col-md-6 {
+    padding: 0px;
+    background-color: #FFFFFF;
+  }
+
+  .lib-panel .lib-row.lib-desc {
+    position: relative;
+    height: 100%;
+    display: block;
+    font-size: 13px;
+  }
+  .lib-panel .lib-row.lib-desc a{
+    position: absolute;
+    width: 482px;
+    bottom: 10px;
+    left: 150px;
+  }
+
+  .row-margin-bottom {
+    margin-bottom: 20px;
+  }
+
+  .box-shadow {
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,.10);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.10);
+  }
+
+  .no-padding {
+    padding: 0;
+  }
+
+  .card-footer {
+    text-align: auto;
+  }
+
+  .ricomida {
+    font-family: 'Lobster', cursive;
+    color: #ffffff !important; 
+  }
+
+  .moon{
+    font-family: 'Cabin';
+    background-color:  #ffffff; 
+  }
+
+  h1 {
+    font-family: 'Cabin', bold;
+    font-size: 4px;
+  }
+
+  h2 {
+    font-family: 'Cabin', bold;
+    font-size: 30px;
+  }
+
+  h3 {
+    font-family: 'Cabin', bold;
+    font-size: 20px;
+  }
+
+  h4 {
+    font-size: medium;
+  }
+
+  h5 {
+    font-size: small;
+  }
+
+  hr {
+    height: 1px;
+    width: 40%;
+    background-color: black;
+  }
+
+  .pie-de-pagina-logo {
+    font-family: 'Lobster', cursive;
+    color: #ffffff;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+  footer{
+    font-family: 'Cabin', 'Lobster';
+    background-color: #8e24aa !important;
+    color: #ffffff;
+    padding: 15px 10px;
+    margin-left: 224px; 
+    top: 511px;
+    left: 0px;
+    width: 1280px;
+    height: 240px;
+  }
+  
+  .txt-white{
+    color: #ffffff;
+  }
+  
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #373A3C;
+  }
+  .carousel-indicators {
+    top: 10px;
+    left: 10px;
+  }
+
+  .carousel-indicators {
+    top: 50px;
+  }
+  
